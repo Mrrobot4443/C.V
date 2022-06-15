@@ -1,0 +1,163 @@
+            /* .side {
+    background-color: rgb(0, 0, 0);
+} */
+            
+            body {
+                background-image: linear-gradient(#F6EBE6, #AEE1F9);
+            }
+            
+            .container {
+                background-color: rgb(235, 234, 234);
+            }
+            
+            .imgp {
+                margin-left: 250px;
+                z-index: 1;
+                position: relative;
+            }
+            
+            h3 {
+                background-image: #EBEBEB, #4062BB;
+                font-size: 26px;
+            }
+            
+            .star {
+                color: rgb(9, 156, 255);
+                font-size: 25px;
+            }
+            
+            .logi {
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-weight: 700px;
+                margin-right: 120px;
+                font-size: 17px;
+            }
+            
+            h1 {
+                color: #ffffff;
+            }
+            
+            .ul-R {
+                margin-left: 100px ! important;
+            }
+            
+            ul {
+                font-size: 20px;
+            }
+            
+            .d-inline {
+                font-size: 30px;
+            }
+            
+            .colorRside {
+                background-color: #50a7e0be;
+            }
+            
+            .R-side .ul .li {
+                content: "";
+                position: absolute;
+                top: 5px;
+                right: 0;
+                width: 50px;
+                height: 50px;
+                background: rgb(193, 11, 11);
+                border: 1px solid blue;
+                border-radius: 50%;
+            }
+            
+            .fs {
+                font-size: 60px;
+                margin-right: 260px;
+            }
+            
+            .color {
+                background-color: #189fdd;
+                padding: 10px 0;
+            }
+            
+            .rond1,
+            .rond2,
+            .rond3 {
+                /* top: 400px; */
+                width: 40px;
+                height: 40px;
+                border-radius: 50%;
+                background-color: #AEE1F9;
+                left: -19px;
+            }
+            
+            .rond1 {
+                top: 96px;
+                z-index: 1;
+            }
+            
+            .rond2 {
+                top: 1102px;
+            }
+            
+            .long1,
+            .long2 {
+                height: 900px;
+                width: 2px;
+                background-color: #AEE1F9;
+            }
+            
+            .long1 {
+                top: 740px;
+            }
+            
+            .rond3 {
+                top: 1477px;
+            }
+            
+            .balise {
+                color: #0a2261;
+                font-size: 30px;
+                position: absolute;
+                left: 5px;
+                top: 3px;
+            }
+            
+            .R-side,
+            .ul-R,
+            ul {
+                color: #ffffff;
+                font-size: 25px;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+            
+            .R-side {
+                background-color: #8eb9e2;
+            }
+            
+            .R-side .titles {
+                color: rgb(4, 52, 101);
+                font-size: larger;
+            }
+            
+            .progress {
+                left: 36px;
+                bottom: 40px;
+            }
+            
+            .bootsimg {
+                color: #181818;
+                right: 174px;
+            }
+            
+            .excel {
+                font-size: 22px;
+                padding-left: 2px;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                left: 30px;
+                position: relative;
+            }
+            
+            .ulliste-1 {
+                position: relative;
+                right: 40px;
+            }
+            
+            .prog {
+                background-color: purple !important;
+            }
